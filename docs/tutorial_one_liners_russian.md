@@ -1,4 +1,4 @@
-# The bpftrace One-Liner Tutorial
+# Краткий ликбез по однострочникам в bpftrace
 
 This teaches you bpftrace for Linux in 12 easy lessons, where each lesson is a one-liner you can try running. This series of one-liners introduces concepts which are summarized as bullet points. For a full reference to bpftrace, see the [Reference Guide](reference_guide.md)
 
